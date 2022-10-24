@@ -1,0 +1,44 @@
+[
+    {
+      "id": "1",
+      "name": "Node Js",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png", 
+      "durution": "320minute",
+      "details": ""
+    },
+    {
+      "id": "2",
+      "name": "Java",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png",
+      "durution": "629minute",
+      "details": ""
+    },
+    {
+      "id": "3",
+      "name": "C++",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png",
+      "durution": "467minute",
+      "details": ""
+    },
+    {
+      "id": "4",
+      "name": "Python",
+      "img": "https://logicoretech.com/wp-content/uploads/2022/05/Python-Symbol.png",
+      "durution": "320minute",
+      "details": ""
+    },
+    {
+      "id": "5",
+      "name": "React",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
+      "durution": "567minute",
+      "details": "416minute"
+    },
+    {
+      "id": "6",
+      "name": "Php",
+      "img": "https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png",
+      "durution": "211minute",
+      "details": ""
+    }
+  ]

@@ -1,0 +1,38 @@
+[
+    {
+      "id": "1",
+      "name": "Node Js",
+      "img": "",
+      "durution": ""
+    },
+    {
+      "id": "2",
+      "name": "Java",
+      "img": "",
+      "durution": ""
+    },
+    {
+      "id": "3",
+      "name": "C++",
+      "img": "",
+      "durution": ""
+    },
+    {
+      "id": "4",
+      "name": "Python",
+      "img": "",
+      "durution": ""
+    },
+    {
+      "id": "5",
+      "name": "React",
+      "img": "",
+      "durution": ""
+    },
+    {
+      "id": "6",
+      "name": "Php",
+      "img": "",
+      "durution": ""
+    }
+  ]
