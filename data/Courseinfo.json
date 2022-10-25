@@ -4,41 +4,53 @@
       "name": "Node Js",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png", 
       "durution": "320minute",
-      "details": ""
+      "Instructor": "Kevin Powel",
+      "class":"Twenty",
+      "details": "This is a course where you can learn a programing method.Which help you lot of in your carrier.If you can give your hardly work your can success"
     },
     {
       "id": "2",
-      "name": "Java",
-      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png",
+      "name": "Sass",
+      "img": "https://www.freecodecamp.org/news/content/images/2022/04/sass-image.png",
       "durution": "629minute",
-      "details": ""
+      "Instructor":"David Michel",
+      "class":"Thirty Five",
+      "details": "This is a course where you can learn a programing method.Which help you lot of in your carrier.If you can give your hardly work your can success"
     },
     {
       "id": "3",
       "name": "C++",
       "img": "https://www.computerhope.com/jargon/b/bootstrap.jpg",
       "durution": "467minute",
-      "details": ""
+      "Instructor":"William ",
+      "class":"Fourty",
+      "details": "This is a course where you can learn a programing method.Which help you lot of in your carrier.If you can give your hardly work your can success"
     },
     {
       "id": "4",
       "name": "Python",
       "img": "https://logicoretech.com/wp-content/uploads/2022/05/Python-Symbol.png",
       "durution": "320minute",
-      "details": ""
+      "Instructor":"Joseph ",
+      "class":"Thirty Nine",
+      "details": "This is a course where you can learn a programing method.Which help you lot of in your carrier.If you can give your hardly work your can success"
     },
     {
       "id": "5",
       "name": "React",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
       "durution": "567minute",
-      "details": "416minute"
+      "Instructor":"Christopher",
+      "class":"Fourty Two",
+      "details": "This is a course where you can learn a programing method.Which help you lot of in your carrier.If you can give your hardly work your can success"
     },
     {
       "id": "6",
       "name": "Php",
       "img": "https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png",
       "durution": "211minute",
-      "details": ""
+      "Instructor":"Anthony",
+      "class":"Twenty",
+      "details": "This is a course where you can learn a programing method.Which help you lot of in your carrier.If you can give your hardly work your can success"
     }
   ]
