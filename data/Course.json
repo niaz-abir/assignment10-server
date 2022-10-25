@@ -2,37 +2,43 @@
     {
       "id": "1",
       "name": "Node Js",
-      "img": "",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png",
+       "Instructor": "Kevin Powel",
       "durution": ""
     },
     {
       "id": "2",
-      "name": "Java",
-      "img": "",
+      "name": "Sass",
+      "img": "https://www.freecodecamp.org/news/content/images/2022/04/sass-image.png",
+      "Instructor":"David Michel",
       "durution": ""
     },
     {
       "id": "3",
-      "name": "C++",
-      "img": "",
+      "name": "Bootstrap",
+      "img": "https://www.computerhope.com/jargon/b/bootstrap.jpg",
+      "Instructor":"William ",
       "durution": ""
     },
     {
       "id": "4",
       "name": "Python",
-      "img": "",
+      "img": "https://logicoretech.com/wp-content/uploads/2022/05/Python-Symbol.png",
+      "Instructor":"Joseph ",
       "durution": ""
     },
     {
       "id": "5",
       "name": "React",
-      "img": "",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
+      "Instructor":"Christopher",
       "durution": ""
     },
     {
       "id": "6",
       "name": "Php",
-      "img": "",
+      "img": "https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png",
+      "Instructor":"Anthony",
       "durution": ""
     }
   ]
